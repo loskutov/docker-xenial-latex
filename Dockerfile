@@ -7,4 +7,5 @@ RUN apt-get -q update && apt-get install -yq --no-install-suggests --no-install-
     texlive-lang-cyrillic\
     cm-super\
     rubber\
-    curl ca-certificates
+    curl ca-certificates\
+    file
